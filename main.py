@@ -10,7 +10,7 @@ import time
 
 # List of business categories
 business_types = [
-    "Real Estate companies", "Charity/Non-Profits", "Portfolio sites for Instagram artists",
+    "Seafood Restaurants", "Real Estate companies", "Charity/Non-Profits", "Portfolio sites for Instagram artists",
     "Local Restaurant chains", "Personal Injury Law Firms", "Independent insurance sites",
     "Landscaping/Fertilizer", "Painting", "Power Washing", "Car Wash", "Axe Throwing", "Gun Ranges/Stores",
     "Currency Exchanges/Check Cashing", "Construction Materials Companies", "Gyms", "Salons with multiple locations",
